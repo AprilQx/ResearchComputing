@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "Practical_5.C": "cpp"
+    }
+}
